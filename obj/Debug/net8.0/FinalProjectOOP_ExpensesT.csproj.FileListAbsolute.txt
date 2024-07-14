@@ -1,0 +1,14 @@
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.AssemblyInfoInputs.cache
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.AssemblyInfo.cs
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.csproj.CoreCompileInputs.cache
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\bin\Debug\net8.0\FinalProjectOOP_ExpensesT.exe
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\bin\Debug\net8.0\FinalProjectOOP_ExpensesT.deps.json
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\bin\Debug\net8.0\FinalProjectOOP_ExpensesT.runtimeconfig.json
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\bin\Debug\net8.0\FinalProjectOOP_ExpensesT.dll
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\bin\Debug\net8.0\FinalProjectOOP_ExpensesT.pdb
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.dll
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\refint\FinalProjectOOP_ExpensesT.dll
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.pdb
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\FinalProjectOOP_ExpensesT.genruntimeconfig.cache
+C:\Users\Kristoff\OneDrive\Desktop\Cha\OOP Final Project\FinalProjectOOP_ExpensesT\FinalProjectOOP_ExpensesT\obj\Debug\net8.0\ref\FinalProjectOOP_ExpensesT.dll
